@@ -39,23 +39,32 @@ The export was done with [this script](https://github.com/Askannz/stable-diffusi
 
 <figure>
   <b>Prompt:</b> <i>Yoda</i>
-  <img src="examples/043.png" width=300>
+  <img src="examples/043.png" width=200>
 </figure>
 
 <figure>
   <b>Prompt:</b> <i>Smurf</i>
-  <img src="examples/039.png" width=300>
+  <img src="examples/039.png" width=200>
 </figure>
-
 
 <figure>
   <b>Prompt:</b> <i>Banana</i>
-  <img src="examples/014.png" width=300/>
+  <img src="examples/014.png" width=200/>
 </figure>
 
 <figure>
   <b>Prompt:</b> <i>Steampunk</i>
-  <img src="examples/237.png" width=300/>
+  <img src="examples/237.png" width=200/>
+</figure>
+
+<figure>
+  <b>Prompt:</b> <i>Darth Vader</i>
+  <img src="examples/168.png" width=200/>
+</figure>
+
+<figure>
+  <b>Prompt:</b> <i>Kratos from God Of War</i>
+  <img src="examples/163.png" width=200/>
 </figure>
 
 # Interactive demo
