@@ -35,40 +35,35 @@ There are multiple branch revisions, corresponding to the epoch the checkpoint w
 The export was done with [this script](https://github.com/Askannz/stable-diffusion/blob/4a2f8479085499a4caedb32d0ba70a5ecf980a77/scripts/convert_sd_to_diffusers.py) and with `--use_ema` enabled.
 
 
-# Examples
+# Demo
 
-<figure>
-  <b>Prompt:</b> <i>Yoda</i>
-  <img src="examples/043.png" width=200>
-</figure>
+* Google Colab: https://colab.research.google.com/drive/11Bdkub4OGtMNdSlMKx4fklB5LAtFFVpG
 
-<figure>
-  <b>Prompt:</b> <i>Smurf</i>
-  <img src="examples/039.png" width=200>
-</figure>
+* HuggingFace: https://huggingface.co/spaces/Gazoche/text-to-gundam
 
-<figure>
-  <b>Prompt:</b> <i>Banana</i>
-  <img src="examples/014.png" width=200/>
-</figure>
+The demo application on HuggingFace can also be run on a local computer.
 
-<figure>
-  <b>Prompt:</b> <i>Steampunk</i>
-  <img src="examples/237.png" width=200/>
-</figure>
 
-<figure>
-  <b>Prompt:</b> <i>Darth Vader</i>
-  <img src="examples/168.png" width=200/>
-</figure>
+# Gallery of examples
 
-<figure>
-  <b>Prompt:</b> <i>Kratos from God Of War</i>
-  <img src="examples/163.png" width=200/>
-</figure>
+![](examples/01.png)
 
-# Interactive demo
+![](examples/02.png)
 
-Google Colab Demo: https://colab.research.google.com/drive/11Bdkub4OGtMNdSlMKx4fklB5LAtFFVpG
+![](examples/03.png)
 
-See the first cell for selecting a model checkpoint.
+![](examples/04.png)
+
+![](examples/05.png)
+
+![](examples/06.png)
+
+![](examples/07.png)
+
+![](examples/08.png)
+
+![](examples/09.png)
+
+![](examples/10.png)
+
+
