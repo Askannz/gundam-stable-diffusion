@@ -37,11 +37,11 @@ The export was done with [this script](https://github.com/Askannz/stable-diffusi
 
 # Demo
 
-* HuggingFace: https://huggingface.co/spaces/Gazoche/text-to-gundam
+* HuggingFace: https://huggingface.co/spaces/Gazoche/text-to-gundam-2
 
 * Google Colab: https://colab.research.google.com/drive/11Bdkub4OGtMNdSlMKx4fklB5LAtFFVpG
 
-To run the model locally, see https://huggingface.co/docs/diffusers/using-diffusers/conditional_image_generation
+To run the model locally, see https://huggingface.co/docs/diffusers/using-diffusers/conditional_image_generation (use the diffusers weigths above)
 
 # Gallery of examples
 
