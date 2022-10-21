@@ -37,7 +37,7 @@ The export was done with [this script](https://github.com/Askannz/stable-diffusi
 
 # Demo
 
-* HuggingFace: https://huggingface.co/spaces/Gazoche/text-to-gundam-2
+* HuggingFace: https://huggingface.co/spaces/Gazoche/text-to-gundam
 
 * Google Colab: https://colab.research.google.com/drive/11Bdkub4OGtMNdSlMKx4fklB5LAtFFVpG
 
